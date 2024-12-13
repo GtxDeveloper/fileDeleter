@@ -1,0 +1,14 @@
+C:\Users\landi\RiderProjects\fileDeleter\fileDeleter\bin\Debug\net7.0\fileDeleter.exe
+C:\Users\landi\RiderProjects\fileDeleter\fileDeleter\bin\Debug\net7.0\fileDeleter.deps.json
+C:\Users\landi\RiderProjects\fileDeleter\fileDeleter\bin\Debug\net7.0\fileDeleter.runtimeconfig.json
+C:\Users\landi\RiderProjects\fileDeleter\fileDeleter\bin\Debug\net7.0\fileDeleter.dll
+C:\Users\landi\RiderProjects\fileDeleter\fileDeleter\bin\Debug\net7.0\fileDeleter.pdb
+C:\Users\landi\RiderProjects\fileDeleter\fileDeleter\obj\Debug\net7.0\fileDeleter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\landi\RiderProjects\fileDeleter\fileDeleter\obj\Debug\net7.0\fileDeleter.AssemblyInfoInputs.cache
+C:\Users\landi\RiderProjects\fileDeleter\fileDeleter\obj\Debug\net7.0\fileDeleter.AssemblyInfo.cs
+C:\Users\landi\RiderProjects\fileDeleter\fileDeleter\obj\Debug\net7.0\fileDeleter.csproj.CoreCompileInputs.cache
+C:\Users\landi\RiderProjects\fileDeleter\fileDeleter\obj\Debug\net7.0\fileDeleter.dll
+C:\Users\landi\RiderProjects\fileDeleter\fileDeleter\obj\Debug\net7.0\refint\fileDeleter.dll
+C:\Users\landi\RiderProjects\fileDeleter\fileDeleter\obj\Debug\net7.0\fileDeleter.pdb
+C:\Users\landi\RiderProjects\fileDeleter\fileDeleter\obj\Debug\net7.0\fileDeleter.genruntimeconfig.cache
+C:\Users\landi\RiderProjects\fileDeleter\fileDeleter\obj\Debug\net7.0\ref\fileDeleter.dll
